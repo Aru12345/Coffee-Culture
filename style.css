@@ -1,0 +1,92 @@
+.header{
+    background-color:rgb(134, 104, 104);
+    text-align: center;
+    font-style:italic;
+    margin: 0  ;
+    padding:0 ;
+}
+h1{
+     padding: 0 ;
+     margin-top: 0;
+     margin-bottom: 0;
+    
+ }
+
+    
+body{
+    margin:0;
+    padding:0;
+       /*background-image: url("https://4.imimg.com/data4/MI/OE/MY-30404034/coffee-brown-aluminium-partition-sheet-500x500.jpg");*/
+}
+
+input {
+    vertical-align: top;
+}
+.main{
+    width : 100% ;
+    justify-content: center;
+  background-color:rgb(192, 159, 159);
+  height: 650px;
+  overflow-y: auto;
+ 
+ 
+  
+   
+}
+.search{
+    padding: 2%;
+    margin-left: 30%;
+}
+#coffeeFormContainer{
+    vertical-align: top;
+}
+.coffee-card{
+    border: solid;
+    border-color: #684638f5;
+    padding: 50px;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    margin: 30px;
+    text-align: center;
+    width: 370px;
+    height: 450px;
+    
+    overflow-x: auto;
+    background-color: rgb(245, 244, 244);
+    
+
+}
+
+#coffee-list{
+    
+   display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    width: 95%;
+    margin-left: 2%;
+}
+img {
+    height: 60%;
+    width: 60%;
+    padding: 3%;
+  }
+  #search{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+  }
+  .bttnContainer {
+    text-align: center;
+  }
+.footer{
+    width: 100%;
+    margin-bottom: 0%;
+}
+.contact{
+    background-color: rgb(151, 111, 111);
+}
+#copyright{
+    text-align: center; 
+    background-color:rgb(134, 104, 104);
+}
