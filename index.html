@@ -16,14 +16,15 @@
     <header class="header">
     <h1 style="margin: 0;">Nothing like freshly brewed magical coffee!</h1>
     Welcome to Coffee Culture!
-        Search any of your favourite Coffee recipes with just a click!
+        Search  your favourite Coffee recipes with  a click!
         <i class="bi bi-cup"></i>
    
     </header>
 
     <main class="main">
+     
          
-            <form class="search" >
+        <form class="search" >
           <div class="input-group mb-3" >
             <input id ="searchBar" type="text" class="form-control" placeholder="Search Coffee" aria-label="Coffee" name="name" aria-describedby="basic-addon2">
             <button type="submit" class="btn btn-primary">Search</button>
@@ -34,25 +35,39 @@
         
        <section id="coffee-list" > </section> 
       
-    </main>
-    <section id="coffeeFormContainer">
-        <form id="coffee-form">
-          <label><strong>Title: </strong></label>
-          <input type="text" id="title-input" />
-          <label><strong>Image: </strong></label>
-          <input type="text" id="img-input" />
-          <label><strong>Type: </strong></label>
-          <input type="text" id="type-input" />
-          <label><strong>Ingredients: </strong></label>
-          <input type="text" id="ingredients-input" />
-          <label><strong>Recipe: </strong></label>
-          <input type="text" id="recipe-input" />
-          <input type="submit" value="Submit" />
-        </form>
-    </section>
-    <aside>
-
-    </aside>
+        <div class="button-Container">
+        <button type="button" id="back" class="btn btn-primary">Previous</button>
+        <button type="button" id="forward" class="btn btn-primary">Next</button>
+      </div>
+      <div id="formContainer">
+      
+      <h2 class="formHeading">Add a recipe!<i class="bi bi-cup-fill"></i></h2>
+      <form id="addForm">
+          
+        <label for="title" class="form-label"><strong>Title:</strong></label>
+        <input type="text" class="form-control" id="title" placeholder="Enter title">
+     
+      
+        <label for="image" class="form-label"><strong>Image:</strong></label>
+        <input type="text" class="form-control" id="image" placeholder="Add an image">
+      
+        <label for="type" class="form-label"><strong>Type:</strong></label>
+        <input type="text" class="form-control" id="type" placeholder="Enter Type">
+     
+     
+        <label for="ingredients" class="form-label"><strong>Ingredients:</strong></label>
+        <input type="text" class="form-control" id="ingredients" placeholder="Enter Ingredients">
+      
+        <label for="description" class="form-label"><strong>Description:</strong></label>
+        <input type="text" class="form-control" placeholder="Enter Description" id="description">
+      
+        <label for="recipe"class="form-label" ><strong>Recipe:</strong></label>
+        <input type="text" class="form-control" id="recipe" placeholder="Enter Recipe" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+     
+        <button type="submit" class="btn btn-primary" id="recipeSubmit"  value="Publish">Publish</button>
+    </form>
+     </div>
+  </main>
     <footer class="text-center">
       <div class=" p-4 pb-0 contact">
         <section>
