@@ -1,33 +1,35 @@
 {
- "coffee":[
+  "coffee": [
     {
       "title": "Black",
-    "description": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
-    "recipe": "To begin with first add water.Boil it well.After that to a serving cup add coffee powder and sugar.Mix it well.Add remaining hot water to it.Mix well and serve hot!",
-    "ingredients": [
-      "Coffee"
-    ],
-    "type":"Hot",
-    "image":"https://v1.nitrocdn.com/wOWwmyCKRnAgUUxRMXeUVFGZerDOMEyo/assets/static/optimized/blog/wp-content/uploads/2019/09/e5caf596506bc9cf819a89f574dcfd2b.Black-coffee-feature-image-750x375.jpg",
-    "id": 1
+      "description": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
+      "recipe": "To begin with first add water.Boil it well.After that to a serving cup add coffee powder and sugar.Mix it well.Add remaining hot water to it.Mix well and serve hot!",
+      "ingredients": [
+        "Coffee"
+      ],
+      "type": "Hot",
+      "image": "https://v1.nitrocdn.com/wOWwmyCKRnAgUUxRMXeUVFGZerDOMEyo/assets/static/optimized/blog/wp-content/uploads/2019/09/e5caf596506bc9cf819a89f574dcfd2b.Black-coffee-feature-image-750x375.jpg",
+      "id": 1,
+      "likes": 15
     },
     {
       "title": "Latte",
       "description": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
-      "recipe":"Prepare an espresso (single or double).1/3 fill your milk jug — whole milk is recommended.Purge your steam arm prior to attempting to steam your milk.Foam your milk prior to brewing your espresso.Begin pouring the frothed milk to your espresso.Ensure a small amount of stiff milk foam sits on top after pouring!Enjoy your Latte",
+      "recipe": "Prepare an espresso (single or double).1/3 fill your milk jug — whole milk is recommended.Purge your steam arm prior to attempting to steam your milk.Foam your milk prior to brewing your espresso.Begin pouring the frothed milk to your espresso.Ensure a small amount of stiff milk foam sits on top after pouring!Enjoy your Latte",
       "ingredients": [
         "Espresso",
         "Steamed Milk",
         "Sugar"
       ],
-      "type":"Hot",
-      "image":"https://www.thespruceeats.com/thmb/pZfJRiQGTlhPWwU_jbqR16YJSY0=/4200x2362/smart/filters:no_upscale()/how-to-make-caffe-latte-765372-hero-01-2417e49c4a9c4789b3abdd36885f06ab.jpg",
-      "id": 2
+      "type": "Hot",
+      "image": "https://www.thespruceeats.com/thmb/pZfJRiQGTlhPWwU_jbqR16YJSY0=/4200x2362/smart/filters:no_upscale()/how-to-make-caffe-latte-765372-hero-01-2417e49c4a9c4789b3abdd36885f06ab.jpg",
+      "id": 2,
+      "likes": 12
     },
     {
       "title": "Cappuccino",
       "description": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
-      "recipe":"Firstly, in a large bowl take  coffee powder,sugar and  water and mix well.Beat for 5 minutes or until the mixture turns frothy and lightens in colour.Make sure the mixture is thick and creamy.To prepare cappuccino, heat  milk.whisk and get the milk to boil to make the milk frothy.In a cup, add 1 cappuccino mixture.Top with a cup of frothy milk and mix gently.To make it stronger, add a tbsp of more cappuccino mixture and mix gently.",
+      "recipe": "Firstly, in a large bowl take  coffee powder,sugar and  water and mix well.Beat for 5 minutes or until the mixture turns frothy and lightens in colour.Make sure the mixture is thick and creamy.To prepare cappuccino, heat  milk.whisk and get the milk to boil to make the milk frothy.In a cup, add 1 cappuccino mixture.Top with a cup of frothy milk and mix gently.To make it stronger, add a tbsp of more cappuccino mixture and mix gently.",
       "ingredients": [
         "Espresso",
         "Steamed Milk",
@@ -35,300 +37,333 @@
         "Sugar",
         "Coffee"
       ],
-      "type":"Hot",
-      "image":"https://www.torani.com/sites/default/files/styles/torani_syrup_recipe_detail/public/recipes/illustration/Cappuccino%20with%20spice%20and%20beans.jpg?itok=FkWxpXLj",
-      "id": 3
+      "type": "Hot",
+      "image": "https://www.torani.com/sites/default/files/styles/torani_syrup_recipe_detail/public/recipes/illustration/Cappuccino%20with%20spice%20and%20beans.jpg?itok=FkWxpXLj",
+      "id": 3,
+      "likes": 9
     },
     {
       "title": "Americano",
       "description": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water.",
-      "recipe":"Fill a mug approx 2/3rds full with hot water.Brew a single or double espresso (as per taste or order) directly into the mug containing hot water.Enjoy your Americano!",
+      "recipe": "Fill a mug approx 2/3rds full with hot water.Brew a single or double espresso (as per taste or order) directly into the mug containing hot water.Enjoy your Americano!",
       "ingredients": [
         "Espresso",
         "Hot Water"
-
       ],
-      "type":"Hot",
-      "image":"https://www.roastycoffee.com/wp-content/uploads/emre-gencer-364602-unsplash-1.jpg",
-      "id": 4
+      "type": "Hot",
+      "image": "https://www.roastycoffee.com/wp-content/uploads/emre-gencer-364602-unsplash-1.jpg",
+      "id": 4,
+      "likes": 4
     },
     {
       "title": "Espresso",
       "description": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
-      "recipe":"Fill the lower chamber of the Moka Pot with water.Fill the filter basket with coffee.Place the pot on a stove set to medium heatRemove from heat as soon as you hear bubbling sound.Pour into vessel and enjoy!.",
+      "recipe": "Fill the lower chamber of the Moka Pot with water.Fill the filter basket with coffee.Place the pot on a stove set to medium heatRemove from heat as soon as you hear bubbling sound.Pour into vessel and enjoy!.",
       "ingredients": [
         "1oz Espresso"
       ],
-      "type":"Hot",
-      "image":"https://www.cnet.com/a/img/e3YPecnue_M6575t8qLAws_sLbw=/940x0/2018/10/12/78ee060a-6f42-47f9-9e71-817e51d5595d/pixel-3-cafe.jpg",
-      "id": 5
+      "type": "Hot",
+      "image": "https://www.cnet.com/a/img/e3YPecnue_M6575t8qLAws_sLbw=/940x0/2018/10/12/78ee060a-6f42-47f9-9e71-817e51d5595d/pixel-3-cafe.jpg",
+      "id": 5,
+      "likes": 11
     },
     {
       "title": "Doppio",
       "description": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
-      "recipe":"Fill the lower chamber of the Moka Pot with water.Fill the filter basket with coffee.Place the pot on a stove set to medium heatRemove from heat as soon as you hear bubbling sound.Pour into vessel and enjoy!.",
+      "recipe": "Fill the lower chamber of the Moka Pot with water.Fill the filter basket with coffee.Place the pot on a stove set to medium heatRemove from heat as soon as you hear bubbling sound.Pour into vessel and enjoy!.",
       "ingredients": [
         "2oz Espresso"
       ],
-      "type":"Hot",
-      "image":"https://64.media.tumblr.com/d513fa3b4faa873684a9941d9a411864/tumblr_njpdmqFRlm1ungxeyo1_500.jpg",
-      "id": 6
+      "type": "Hot",
+      "image": "https://64.media.tumblr.com/d513fa3b4faa873684a9941d9a411864/tumblr_njpdmqFRlm1ungxeyo1_500.jpg",
+      "id": 6,
+      "likes": 11
     },
     {
       "title": "Cortado",
       "description": "Like yin and yang, a cortado is the perfect balance of espresso and warm steamed milk. The milk is used to cut back on the espresso’s acidity.",
-      "recipe":"Pull a double shot of espresso.Steam the milk.Pour coffee over milk.Serve and Enjoy!",
+      "recipe": "Pull a double shot of espresso.Steam the milk.Pour coffee over milk.Serve and Enjoy!",
       "ingredients": [
         "2oz Espresso",
         "1oz Steamed Milk"
       ],
-      "type":"Hot",
-      "image":"https://www.acouplecooks.com/wp-content/uploads/2021/08/Cortado-004s.jpg",
-      "id": 7
+      "type": "Hot",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/08/Cortado-004s.jpg",
+      "id": 7,
+      "likes": 15
     },
     {
       "title": "Red Eye",
       "description": "Named after those pesky midnight flights, a red eye can cure any tiresome morning. A full cup of hot coffee with an espresso shot mixed in, this will definitely get your heart racing.",
-      "recipe":"Start brewing the coffee.Brew the espresso right before the coffee is done (single or double, whichever you choose), then pour it into a coffee mug.Once the coffee is ready, pour it over the espresso shot and enjoy.",
+      "recipe": "Start brewing the coffee.Brew the espresso right before the coffee is done (single or double, whichever you choose), then pour it into a coffee mug.Once the coffee is ready, pour it over the espresso shot and enjoy.",
       "ingredients": [
         "Coffee",
         "Espresso"
       ],
-      "type":"Hot",
-      "image":"https://thecoffeeguru.net/wp-content/uploads/2021/05/RedEyeCoffeeDrink.jpg",
-      "id": 8
+      "type": "Hot",
+      "image": "https://thecoffeeguru.net/wp-content/uploads/2021/05/RedEyeCoffeeDrink.jpg",
+      "id": 8,
+      "likes": 15
     },
     {
       "title": "Galão",
       "description": "Originating in Portugal, this hot coffee drink is closely related to the latte and cappuccino. Only difference is it contains about twice as much foamed milk, making it a lighter drink compared to the other two.",
-      "recipe":"Pull two shots of espresso.Heat the milk in a saucepan on the stove. Use medium-low heat and stir frequently to keep it from burning! Then froth it using a whisk or milk frother.Pour the milk and espresso into your coffee mug. Add a little sugar or honey if you’d like. Enjoy your tasty Portuguese coffee!",
+      "recipe": "Pull two shots of espresso.Heat the milk in a saucepan on the stove. Use medium-low heat and stir frequently to keep it from burning! Then froth it using a whisk or milk frother.Pour the milk and espresso into your coffee mug. Add a little sugar or honey if you’d like. Enjoy your tasty Portuguese coffee!",
       "ingredients": [
         "Espresso",
         "Foamed milk",
         "Sugar"
       ],
-      "type":"Hot",
-      "image":"https://i.pinimg.com/originals/2a/5a/8f/2a5a8f3ce2645963646b924e4868ea5a.jpg",
-      "id": 9
+      "type": "Hot",
+      "image": "https://i.pinimg.com/originals/2a/5a/8f/2a5a8f3ce2645963646b924e4868ea5a.jpg",
+      "id": 9,
+      "likes": 19
     },
     {
       "title": "Lungo",
       "description": "A lungo is a long-pull espresso. The longer the pull, the more caffeine there is and the more ounces you can enjoy.",
-      "recipe":"Remove portafiter from espresso machine and run the water through the grouphead to remove any leftover coffee grounds.Grind and fill dry portafilter with finely ground coffee.Level and tamp filled portafilter. Clean loose ground coffee off the portafilter.Put portafilter into the grouphead and pull lungo shots.Place cup under the portafilter.After pulling shots of lungo, remove the portafilter and flush grouphead.There should be more water in a lungo shot so pull a longer shot than you would an espresso.",
+      "recipe": "Remove portafiter from espresso machine and run the water through the grouphead to remove any leftover coffee grounds.Grind and fill dry portafilter with finely ground coffee.Level and tamp filled portafilter. Clean loose ground coffee off the portafilter.Put portafilter into the grouphead and pull lungo shots.Place cup under the portafilter.After pulling shots of lungo, remove the portafilter and flush grouphead.There should be more water in a lungo shot so pull a longer shot than you would an espresso.",
       "ingredients": [
         "Long pulled espresso",
         "Sugar"
       ],
-      "type":"Hot",
-      "image":"https://coffeesesh.com/wp-content/uploads/2021/03/gran-lungo-lungo-coffee-cs-1024x683.jpg",
-      "id": 10
+      "type": "Hot",
+      "image": "https://coffeesesh.com/wp-content/uploads/2021/03/gran-lungo-lungo-coffee-cs-1024x683.jpg",
+      "id": 10,
+      "likes": 11
     },
     {
       "title": "Macchiato",
       "description": "The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio.",
-      "recipe":"Brew one shot of fresh espresso with espresso machine.Steam milk to 160°, and hold the steam wand just below the surface to create foam.Pour milk into espresso to taste and spoon foam on top.",
+      "recipe": "Brew one shot of fresh espresso with espresso machine.Steam milk to 160°, and hold the steam wand just below the surface to create foam.Pour milk into espresso to taste and spoon foam on top.",
       "ingredients": [
         "Espresso",
         "Foam"
       ],
-      "type":"Hot",
-      "image":"https://www.fifteenspatulas.com/wp-content/uploads/2012/03/Caramel-Macchiato-Fifteen-Spatulas-6-1.jpg",
-      "id": 11
+      "type": "Hot",
+      "image": "https://www.fifteenspatulas.com/wp-content/uploads/2012/03/Caramel-Macchiato-Fifteen-Spatulas-6-1.jpg",
+      "id": 11,
+      "likes": 4
     },
     {
       "title": "Mocha",
       "description": "For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.",
-      "recipe":"Choose your prefered coffee.Combine 1/4 cup chocolate shavings or cocoa with 1/2 cup of cream or milk. Heat chocolate and milk mixture slowly using a double broiler or microwave. If melting in a microwave, heat the mixture for 30-second intervals. Stir until creamy and fully combined.Add the warm chocolate and milk mixture to your coffee.Enjoy! ",
+      "recipe": "Choose your prefered coffee.Combine 1/4 cup chocolate shavings or cocoa with 1/2 cup of cream or milk. Heat chocolate and milk mixture slowly using a double broiler or microwave. If melting in a microwave, heat the mixture for 30-second intervals. Stir until creamy and fully combined.Add the warm chocolate and milk mixture to your coffee.Enjoy! ",
       "ingredients": [
         "Espresso",
         "Steamed Milk",
         "Chocolate"
       ],
-      "type":"Hot",
-      "image":"https://athome.starbucks.com/sites/default/files/2020-07/CaffeMocha_Header_Desktop_1176x712.jpg",
-      "id": 12
+      "type": "Hot",
+      "image": "https://athome.starbucks.com/sites/default/files/2020-07/CaffeMocha_Header_Desktop_1176x712.jpg",
+      "id": 12,
+      "likes": 13
     },
     {
       "title": "Ristretto",
       "description": "Ristretto is an espresso shot. It uses less hot water which creates a sweeter flavor compared to the bitter taste of a traditional shot of espresso or a doppio.",
-      "recipe":"Fill and tamp your portafilter with finely ground coffee.Pull 1-2 shots of ristretto.Instead of pulling a normal espresso shot, use a scale to weigh the amount of coffee that’s extracted. Aim for 15-20 ml. Serve and drink immediately.",
+      "recipe": "Fill and tamp your portafilter with finely ground coffee.Pull 1-2 shots of ristretto.Instead of pulling a normal espresso shot, use a scale to weigh the amount of coffee that’s extracted. Aim for 15-20 ml. Serve and drink immediately.",
       "ingredients": [
         "Short pulled espresso"
       ],
-      "type":"Hot",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/5/58/Ristretto_in_a_glass.jpg",
-      "id": 13
+      "type": "Hot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ristretto_in_a_glass.jpg",
+      "id": 13,
+      "likes": 17
     },
     {
       "title": "Flat White",
       "description": "This Aussie-born drink is basically a cappuccino without the foam or chocolate sprinkle. It’s an espresso drink with steamed milk.",
-      "recipe":"Make around 35ml espresso.Steam the milk. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt the jug to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+      "recipe": "Make around 35ml espresso.Steam the milk. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt the jug to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
       "ingredients": [
         "Espresso",
         "Steamed Milk"
       ],
-      "type":"Hot",
-      "image":"https://www.sheknows.com/wp-content/uploads/2018/08/flat-white-coffee_tbnwfc.jpeg?w=640",
-      "id": 14
+      "type": "Hot",
+      "image": "https://www.sheknows.com/wp-content/uploads/2018/08/flat-white-coffee_tbnwfc.jpeg?w=640",
+      "id": 14,
+      "likes": 16
     },
     {
       "title": "Affogato",
       "description": "The affogato is an excuse to enjoy a scoop of ice cream any time of day (and any time of year in my opinion). Served with a scoop of ice cream and a shot of espresso, or two.",
-      "recipe":"Place 2 small scoops of ice cream (coffee, chocolate or vanilla) in a coffee cup, then pour in a shot of espresso or 3 tablespoons strong brewed coffee. Top with shaved dark chocolate and chopped hazelnuts.",
+      "recipe": "Place 2 small scoops of ice cream (coffee, chocolate or vanilla) in a coffee cup, then pour in a shot of espresso or 3 tablespoons strong brewed coffee. Top with shaved dark chocolate and chopped hazelnuts.",
       "ingredients": [
         "Espresso",
         "Icecream"
       ],
-      "type":"Hot",
-      "image":"https://pinchandswirl.com/wp-content/uploads/2020/05/Affogato-sq.jpg",
-      "id": 15
+      "type": "Hot",
+      "image": "https://pinchandswirl.com/wp-content/uploads/2020/05/Affogato-sq.jpg",
+      "id": 15,
+      "likes": 8
     },
     {
       "title": "Café au Lait",
       "description": "Café au lait is perfect for the coffee minimalist who wants a bit more flavor. Just add a splash of warm milk to your coffee and you’re all set!",
-      "recipe":"Into a large cup, pour equal parts of strong hot coffee and steamed milk, reserving the foam.Stir.Spoon reserved foam on top and serve hot.If you're artistic, you might want to try your hand at using the steamed milk to create latte art.",
+      "recipe": "Into a large cup, pour equal parts of strong hot coffee and steamed milk, reserving the foam.Stir.Spoon reserved foam on top and serve hot.If you're artistic, you might want to try your hand at using the steamed milk to create latte art.",
       "ingredients": [
         "Coffee",
         "Steamed Milk"
       ],
-      "type":"Hot",
-      "image":"https://www.thespruceeats.com/thmb/vL1Th4SwAkYbx8ecSf8GgB89B-E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cafe-au-lait-recipe-1374920-hero-01-0b1bbc7d69304240a1e864cef38eff88.jpg",
-      "id": 16
+      "type": "Hot",
+      "image": "https://www.thespruceeats.com/thmb/vL1Th4SwAkYbx8ecSf8GgB89B-E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cafe-au-lait-recipe-1374920-hero-01-0b1bbc7d69304240a1e864cef38eff88.jpg",
+      "id": 16,
+      "likes": 12
     },
     {
       "title": "Irish",
       "description": "Irish coffee consists of black coffee, whiskey and sugar, topped with whipped cream.",
-      "recipe":"Brew your favorite coffee.Add Irish whiskey to a mug.Sweeten with some maple syrup.Add a splash of coffee.Top with whipped cream.",
+      "recipe": "Brew your favorite coffee.Add Irish whiskey to a mug.Sweeten with some maple syrup.Add a splash of coffee.Top with whipped cream.",
       "ingredients": [
         "Coffee",
         "Whiskey",
         "Sugar",
         "Cream"
       ],
-      "type":"Hot",
-      "image":"https://cookieandkate.com/images/2018/12/best-irish-coffee-recipe-4.jpg",
-      "id": 17
+      "type": "Hot",
+      "image": "https://cookieandkate.com/images/2018/12/best-irish-coffee-recipe-4.jpg",
+      "id": 17,
+      "likes": 19
     },
     {
       "title": "Guayoyo",
       "description": "Traditional venezuelan coffee prepared by filtering the ground coffee in a cone of cloth and pouring hot water on top of it. It's prefferably drinked wihout milk nor cream.",
-      "recipe":"Put the coffee in the amount that is needed  with a coarse grind.Heat the necessary water and add the hot water and stir with a spoon.Once the process is finished, wash the filter very well.Enjoy",
+      "recipe": "Put the coffee in the amount that is needed  with a coarse grind.Heat the necessary water and add the hot water and stir with a spoon.Once the process is finished, wash the filter very well.Enjoy",
       "ingredients": [
         "Coffee",
         "Hot Water"
       ],
-      "type":"Hot",
-      "image":"https://steemitimages.com/1280x0/http://ve.emedemujer.com/wp-content/uploads/sites/2/2016/05/taza-de-cafe.jpg",
-      "id": 18
+      "type": "Hot",
+      "image": "https://steemitimages.com/1280x0/http://ve.emedemujer.com/wp-content/uploads/sites/2/2016/05/taza-de-cafe.jpg",
+      "id": 18,
+      "likes": 20
     },
     {
       "title": "Cortadito",
       "description": "Traditional cuban coffee method where a bit of freshly brewed coffee is mixed with sugar to create a highly sugared paste. Then add the rest of the coffee and stir adding milk until a 50/50 ratio is achieved.",
-      "recipe":"With a traditional Cuban coffee maker, add water to bottom half. Add coffee to filter and tap gently with the back of a spoon. Replace filled filter in coffee maker and screw top on tightly. Over low to medium heat, brew the coffee on the stovetop. It should take approximately 3-5 minutes. Be sure not to overcook the coffee.Put the 4 tablespoons of sugar in the bottom of a creamer. Once the first 1-2 oz of coffee has brewed, remove coffee maker from heat and pour coffee into the creamer. Replace to stove so that the remainder of coffee can brew. Meanwhile, mix sugar and coffee together until a paste forms. Once coffee has finished brewing completely, pour all coffee into the creamer and stir until a slight froth appears. Pour in individual coffee mugs.Add warm, evaporated milk to each mug until there is a 50-50 ratio of coffee to milk.Enjoy",
+      "recipe": "With a traditional Cuban coffee maker, add water to bottom half. Add coffee to filter and tap gently with the back of a spoon. Replace filled filter in coffee maker and screw top on tightly. Over low to medium heat, brew the coffee on the stovetop. It should take approximately 3-5 minutes. Be sure not to overcook the coffee.Put the 4 tablespoons of sugar in the bottom of a creamer. Once the first 1-2 oz of coffee has brewed, remove coffee maker from heat and pour coffee into the creamer. Replace to stove so that the remainder of coffee can brew. Meanwhile, mix sugar and coffee together until a paste forms. Once coffee has finished brewing completely, pour all coffee into the creamer and stir until a slight froth appears. Pour in individual coffee mugs.Add warm, evaporated milk to each mug until there is a 50-50 ratio of coffee to milk.Enjoy",
       "ingredients": [
         "Coffee",
         "Traditional",
         "Sugar",
         "Milk"
       ],
-      "type":"Hot",
-      "image":"https://media.istockphoto.com/photos/cortadito-picture-id487920920?k=6&m=487920920&s=170667a&w=0&h=qPHiHaxmXjXHHnM-ElQ5rvLQIvYrgdmObb0omCmT0gw=",
-      "id": 19
+      "type": "Hot",
+      "image": "https://media.istockphoto.com/photos/cortadito-picture-id487920920?k=6&m=487920920&s=170667a&w=0&h=qPHiHaxmXjXHHnM-ElQ5rvLQIvYrgdmObb0omCmT0gw=",
+      "id": 19,
+      "likes": 14
     },
     {
       "title": "Aguapanela Coffee",
       "description": "Bring panela and coffee to a boil in a small pan for 30 minutes until panela is melted. Brew your coffee using your favorite brewing technique but add the hot aguapanela instead of hot water. Delicious sweetened coffee is ready.",
-      "recipe":"Bring water and panela to boil in a small saucepan. Reduce heat and simmer for 30 minutes, stirring regularly to melt panela. Remove from heat, let sit 5 minutes.Place ground coffee in a small french press. Pour aguapanela over coffee until french press is full. Reserve remaining aguapanela for another use, or another cup of coffee.Brew for 4 minutes, stirring once. Plunge french press and serve coffee immediately.",
+      "recipe": "Bring water and panela to boil in a small saucepan. Reduce heat and simmer for 30 minutes, stirring regularly to melt panela. Remove from heat, let sit 5 minutes.Place ground coffee in a small french press. Pour aguapanela over coffee until french press is full. Reserve remaining aguapanela for another use, or another cup of coffee.Brew for 4 minutes, stirring once. Plunge french press and serve coffee immediately.",
       "ingredients": [
         "Coffee",
         "Sweet",
         "Panela",
         "Traditional"
       ],
-      "type":"Hot",
-      "image":"https://www.rhubarbarians.com/wp-content/uploads/2019/06/Aguapanela-colombian-coffee-web1.jpg",
-      "id": 20
+      "type": "Hot",
+      "image": "https://www.rhubarbarians.com/wp-content/uploads/2019/06/Aguapanela-colombian-coffee-web1.jpg",
+      "id": 20,
+      "likes": 18
     },
     {
       "title": "Iced Coffee",
       "description": "A coffee with ice, typically served with a dash of milk, cream or sweetener—iced coffee is really as simple as that.",
-      "recipe":"Pour room temperature (or chilled) coffee into the glass.Fill it almost to the top.Pour in the white stuff.Enjoy!",
+      "recipe": "Pour room temperature (or chilled) coffee into the glass.Fill it almost to the top.Pour in the white stuff.Enjoy!",
       "ingredients": [
         "Coffee",
         "Ice",
         "Sugar*",
         "Cream*"
       ],
-      "type":"Cold",
-      "image":"https://cdn.pickuplimes.com/cache/0e/3a/0e3a9431b6af2aff54e97e573f58476c.jpg",
-      "id": 21
+      "type": "Cold",
+      "image": "https://cdn.pickuplimes.com/cache/0e/3a/0e3a9431b6af2aff54e97e573f58476c.jpg",
+      "id": 21,
+      "likes": 3
     },
     {
       "title": "Iced Espresso",
       "description": "Like an iced coffee, iced espresso can be served straight or with a dash of milk, cream or sweetener. You can also ice speciality espresso-based drinks like americanos, mochas, macchiatos, lattes and flat whites.",
-      "recipe":"Pour the shots of espresso over a tall glass of ice. You can use as many ice cubes as you like.Of course, you can drink the iced espresso as is, but if you’d like to cut the bitterness of your brew, add sugar and heavy cream to your liking. ",
+      "recipe": "Pour the shots of espresso over a tall glass of ice. You can use as many ice cubes as you like.Of course, you can drink the iced espresso as is, but if you’d like to cut the bitterness of your brew, add sugar and heavy cream to your liking. ",
       "ingredients": [
         "Espresso",
         "Ice",
         "Sugar*",
         "Cream*"
       ],
-      "type":"Cold",
-      "image":"https://assets.bonappetit.com/photos/57bf31a34395c0582bb63157/master/w_3840,h_2160,c_limit/iced-espresso.jpg",
-      "id": 22
+      "type": "Cold",
+      "image": "https://assets.bonappetit.com/photos/57bf31a34395c0582bb63157/master/w_3840,h_2160,c_limit/iced-espresso.jpg",
+      "id": 22,
+      "likes": 2
     },
     {
       "title": "Cold Brew",
       "description": "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.",
-      "recipe":"Grind the coffee beans into a coarse grind.Combine the ground coffee and water in the jar.Stir to incorporate.Steep the coffee overnight in the fridge.Strain the coffee concentrate.Transfer to the cold brew to a clean jar for longer-term storage.Make your iced coffee.",
+      "recipe": "Grind the coffee beans into a coarse grind.Combine the ground coffee and water in the jar.Stir to incorporate.Steep the coffee overnight in the fridge.Strain the coffee concentrate.Transfer to the cold brew to a clean jar for longer-term storage.Make your iced coffee.",
       "ingredients": [
         "Long steeped coffee",
         "Ice"
       ],
-      "type":"Cold",
-      "image":"https://cookieandkate.com/images/2018/09/cold-brew-coffee-with-cream-pour.jpg",
-      "id": 23
+      "type": "Cold",
+      "image": "https://cookieandkate.com/images/2018/09/cold-brew-coffee-with-cream-pour.jpg",
+      "id": 23,
+      "likes": 13
     },
     {
       "title": "Frappuccino",
       "description": "Made famous by Starbucks, the Frappuccino is a blended iced coffee drink that’s topped with whipped cream and syrup. ",
-      "recipe":"Blend together ice, espresso (or strong coffee), milk, and sweetener until well blended.Pour into a tall glass and top with optional toppings of whipped cream and chocolate syrup, if using.Serve immediately and enjoy every sip!",
+      "recipe": "Blend together ice, espresso (or strong coffee), milk, and sweetener until well blended.Pour into a tall glass and top with optional toppings of whipped cream and chocolate syrup, if using.Serve immediately and enjoy every sip!",
       "ingredients": [
         "Espresso",
         "Blended ice",
         "Whip*"
       ],
-      "type":"Cold",
-      "image":"https://st.depositphotos.com/1987395/1941/i/600/depositphotos_19419063-stock-photo-ice-latte-frapuccino.jpg",
-      "id": 24
+      "type": "Cold",
+      "image": "https://st.depositphotos.com/1987395/1941/i/600/depositphotos_19419063-stock-photo-ice-latte-frapuccino.jpg",
+      "id": 24,
+      "likes": 9
     },
     {
       "title": "Nitro",
       "description": "A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency. (It’s poured via a nitro tap, too.)",
-      "recipe":"Grind your coffee beans very roughly from whole beans by adding them to your coffee grinder. Pulse very lightly to break up the beans. A fine grind will lead to a cloudy cold brew.Add the  ground coffee into a pitcher with 2 cups of fresh cold water. Stir very well to combine and wet each coffee ground.Allow to sit overnight for 24 hours or until the cold brew has reached your ideal strength. Once the coffee is strong enough, strain the solids from the cold brew.Add ½ cup of the cold brew and ½ cup water to a whipped cream dispenser. Charge with 1 shot of nitrous oxide and shake well for 30 seconds.Discharge the gas using the trigger and pour your nitro cold brew over ice. Add any additional cream or sugar syrups as per your taste. Serve immediately. Keep the remaining cold brew in the fridge all week for when you want to make a nitro cold brew.",
+      "recipe": "Grind your coffee beans very roughly from whole beans by adding them to your coffee grinder. Pulse very lightly to break up the beans. A fine grind will lead to a cloudy cold brew.Add the  ground coffee into a pitcher with 2 cups of fresh cold water. Stir very well to combine and wet each coffee ground.Allow to sit overnight for 24 hours or until the cold brew has reached your ideal strength. Once the coffee is strong enough, strain the solids from the cold brew.Add ½ cup of the cold brew and ½ cup water to a whipped cream dispenser. Charge with 1 shot of nitrous oxide and shake well for 30 seconds.Discharge the gas using the trigger and pour your nitro cold brew over ice. Add any additional cream or sugar syrups as per your taste. Serve immediately. Keep the remaining cold brew in the fridge all week for when you want to make a nitro cold brew.",
       "ingredients": [
         "Coffee",
         "Nitrogen bubbles",
         "Sugar*",
         "Cream*"
       ],
-      "type":"Cold",
-      "image":"https://i.pinimg.com/originals/2c/c6/84/2cc6848c8195d3444e114fe83c95f7b0.jpg",
-      "id": 25
+      "type": "Cold",
+      "image": "https://i.pinimg.com/originals/2c/c6/84/2cc6848c8195d3444e114fe83c95f7b0.jpg",
+      "id": 25,
+      "likes": 4
     },
     {
       "title": "Mazagran",
       "description": "Mazagran coffee is a cross between iced coffee, tea and your favorite rum drink. It typically consists of espresso, lemon, sugar and (sometimes) rum.",
-      "recipe":"Pour ice into a tall glass.Pull a shot of espresso or brew a strong cup of coffee.Add a sweetener.Add the espresso to the glass.Squeeze in fresh lemon juice.Garnish with a lemon slice and enjoy!",
+      "recipe": "Pour ice into a tall glass.Pull a shot of espresso or brew a strong cup of coffee.Add a sweetener.Add the espresso to the glass.Squeeze in fresh lemon juice.Garnish with a lemon slice and enjoy!",
       "ingredients": [
         "Coffee",
         "Sugar",
         "Lemon",
         "Rum*"
       ],
-      "type":"Cold",
-      "image":"https://thequeenbeandotblog.files.wordpress.com/2019/05/cl_feature.jpg?w=450",
-      "id": 26
+      "type": "Cold",
+      "image": "https://thequeenbeandotblog.files.wordpress.com/2019/05/cl_feature.jpg?w=450",
+      "id": 26,
+      "likes": 18
+    },
+    {
+      "title": "Red Velvet Frapuccino",
+      "image": "https://live.staticflickr.com/1883/44625764572_4457d6ba1e_b.jpg",
+      "type": "Hot",
+      "ingredients": "The Red Velvet Cake Frap tastes like a cold, mushy raspberry truffle slurped through a straw.",
+      "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
+      "description": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
+      "id": 27,
+      "likes": 5
     }
   ]
 }
