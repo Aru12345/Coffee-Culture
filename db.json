@@ -10,7 +10,7 @@
       "type": "Hot",
       "image": "https://v1.nitrocdn.com/wOWwmyCKRnAgUUxRMXeUVFGZerDOMEyo/assets/static/optimized/blog/wp-content/uploads/2019/09/e5caf596506bc9cf819a89f574dcfd2b.Black-coffee-feature-image-750x375.jpg",
       "id": 1,
-      "likes": 15
+      "likes": 20
     },
     {
       "title": "Latte",
@@ -24,7 +24,7 @@
       "type": "Hot",
       "image": "https://www.thespruceeats.com/thmb/pZfJRiQGTlhPWwU_jbqR16YJSY0=/4200x2362/smart/filters:no_upscale()/how-to-make-caffe-latte-765372-hero-01-2417e49c4a9c4789b3abdd36885f06ab.jpg",
       "id": 2,
-      "likes": 12
+      "likes": 17
     },
     {
       "title": "Cappuccino",
@@ -40,7 +40,7 @@
       "type": "Hot",
       "image": "https://www.torani.com/sites/default/files/styles/torani_syrup_recipe_detail/public/recipes/illustration/Cappuccino%20with%20spice%20and%20beans.jpg?itok=FkWxpXLj",
       "id": 3,
-      "likes": 9
+      "likes": 14
     },
     {
       "title": "Americano",
@@ -53,7 +53,7 @@
       "type": "Hot",
       "image": "https://www.roastycoffee.com/wp-content/uploads/emre-gencer-364602-unsplash-1.jpg",
       "id": 4,
-      "likes": 4
+      "likes": 7
     },
     {
       "title": "Espresso",
@@ -65,7 +65,7 @@
       "type": "Hot",
       "image": "https://www.cnet.com/a/img/e3YPecnue_M6575t8qLAws_sLbw=/940x0/2018/10/12/78ee060a-6f42-47f9-9e71-817e51d5595d/pixel-3-cafe.jpg",
       "id": 5,
-      "likes": 11
+      "likes": 13
     },
     {
       "title": "Doppio",
@@ -77,7 +77,7 @@
       "type": "Hot",
       "image": "https://64.media.tumblr.com/d513fa3b4faa873684a9941d9a411864/tumblr_njpdmqFRlm1ungxeyo1_500.jpg",
       "id": 6,
-      "likes": 11
+      "likes": 12
     },
     {
       "title": "Cortado",
@@ -103,7 +103,7 @@
       "type": "Hot",
       "image": "https://thecoffeeguru.net/wp-content/uploads/2021/05/RedEyeCoffeeDrink.jpg",
       "id": 8,
-      "likes": 15
+      "likes": 16
     },
     {
       "title": "Galão",
@@ -117,7 +117,7 @@
       "type": "Hot",
       "image": "https://i.pinimg.com/originals/2a/5a/8f/2a5a8f3ce2645963646b924e4868ea5a.jpg",
       "id": 9,
-      "likes": 19
+      "likes": 20
     },
     {
       "title": "Lungo",
@@ -155,7 +155,7 @@
         "Chocolate"
       ],
       "type": "Hot",
-      "image": "https://athome.starbucks.com/sites/default/files/2020-07/CaffeMocha_Header_Desktop_1176x712.jpg",
+      "image": "https://www.vitamix.com/media/other/images/Peppermint-Mocha-470x449.jpg",
       "id": 12,
       "likes": 13
     },
@@ -169,7 +169,7 @@
       "type": "Hot",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ristretto_in_a_glass.jpg",
       "id": 13,
-      "likes": 17
+      "likes": 19
     },
     {
       "title": "Flat White",
@@ -182,7 +182,7 @@
       "type": "Hot",
       "image": "https://www.sheknows.com/wp-content/uploads/2018/08/flat-white-coffee_tbnwfc.jpeg?w=640",
       "id": 14,
-      "likes": 16
+      "likes": 20
     },
     {
       "title": "Affogato",
@@ -223,7 +223,7 @@
       "type": "Hot",
       "image": "https://cookieandkate.com/images/2018/12/best-irish-coffee-recipe-4.jpg",
       "id": 17,
-      "likes": 19
+      "likes": 23
     },
     {
       "title": "Guayoyo",
@@ -296,7 +296,7 @@
       "type": "Cold",
       "image": "https://assets.bonappetit.com/photos/57bf31a34395c0582bb63157/master/w_3840,h_2160,c_limit/iced-espresso.jpg",
       "id": 22,
-      "likes": 2
+      "likes": 5
     },
     {
       "title": "Cold Brew",
@@ -338,7 +338,7 @@
       "type": "Cold",
       "image": "https://i.pinimg.com/originals/2c/c6/84/2cc6848c8195d3444e114fe83c95f7b0.jpg",
       "id": 25,
-      "likes": 4
+      "likes": 5
     },
     {
       "title": "Mazagran",
@@ -358,12 +358,12 @@
     {
       "title": "Red Velvet Frapuccino",
       "image": "https://live.staticflickr.com/1883/44625764572_4457d6ba1e_b.jpg",
-      "type": "Hot",
-      "ingredients": "The Red Velvet Cake Frap tastes like a cold, mushy raspberry truffle slurped through a straw.",
+      "description": "The Red Velvet Cake Frap tastes like a cold, mushy raspberry truffle slurped through a straw.",
+      "type": "Cold",
+      "ingredients": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
       "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
-      "description": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
-      "id": 27,
-      "likes": 5
+      "likes": 1,
+      "id": 27
     }
   ]
 }

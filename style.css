@@ -9,15 +9,12 @@ h1{
      padding: 0 ;
      margin-top: 0;
      margin-bottom: 0;
-    
- }
+    }
 
-    
 body{
     margin:0;
     padding:0;
-       /*background-image: url("https://4.imimg.com/data4/MI/OE/MY-30404034/coffee-brown-aluminium-partition-sheet-500x500.jpg");*/
-}
+    }
 
 input {
     vertical-align: top;
@@ -34,49 +31,45 @@ input {
     margin-left: px;
     width: 40%;
 }
-#coffeeFormContainer{
-    vertical-align: top;
-}
+
 .coffee-card{
-    border: solid;
+    border:solid ;
     border-color: #684638f5;
     padding: 50px;
-    
-    
     transition: 0.3s;
     margin: 30px;
     text-align: center;
     width: 350px;
     height: 450px;
-    
     overflow-x: auto;
     background-color: rgb(238, 230, 230);
     
 
 }
+
+
 .coffee-card:hover{
-    width: 370px;
-    height: 500px;
-    box-shadow: 0 4px 8px 0 rgba(92, 46, 46, 0.904);
+    border:groove;
+    border-color: rgba(224, 167, 129, 0.747);
+    width: 345px;
+    height: 450px;
+    box-shadow: 0 4px 8px 0 rgba(112, 63, 63, 0.904);
     background-color: rgb(255, 255, 255);
 }
 
 #coffee-list{
-    
-   display: flex;
+    display: flex;
     justify-content:center;
     flex-wrap: wrap;
-   
-    margin-left: 2%;
+   margin-left: 2%;
 }
+
 img {
-    height: 60%;
+    height: 50%;
     width: 65%;
     padding: 3%;
   }
-  .like-bttn{
-border-style: none;
-  }
+
   .search{
     display: flex;
     margin-left: 320px;
@@ -95,16 +88,17 @@ border-style: none;
     
     
   }
+
   #coffeeFormContainer{
       width: 40%;
-   
-      
-     
-  }
-  #addform{
+      vertical-align: top;
+      }
+
+#addform{
       width: 60%;
   }
-  .like-bttn{
+
+.like-bttn{
       background-color:rgb(192, 159, 159);
       border: none;
       width: 100px;
@@ -116,10 +110,7 @@ border-style: none;
     margin-top: 5%;
     margin-left: 30%;
     width: 40%;
-    
-
-    
-}
+    }
 
 #recipeSubmit{
     margin:2%;
