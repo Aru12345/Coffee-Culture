@@ -24,7 +24,7 @@
       "type": "Hot",
       "image": "https://www.thespruceeats.com/thmb/pZfJRiQGTlhPWwU_jbqR16YJSY0=/4200x2362/smart/filters:no_upscale()/how-to-make-caffe-latte-765372-hero-01-2417e49c4a9c4789b3abdd36885f06ab.jpg",
       "id": 2,
-      "likes": 17
+      "likes": 18
     },
     {
       "title": "Cappuccino",
@@ -364,6 +364,56 @@
       "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
       "likes": 1,
       "id": 27
+    },
+    {
+      "title": "Red Velvet Frapuccino",
+      "image": "https://live.staticflickr.com/1883/44625764572_4457d6ba1e_b.jpg",
+      "description": "The Red Velvet Cake Frap tastes like a cold, mushy raspberry truffle slurped through a straw.",
+      "type": "Cold",
+      "ingredients": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
+      "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
+      "likes": 0,
+      "id": 28
+    },
+    {
+      "title": "Dalgona Coffee",
+      "image": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/230873_STUART%20LITTLE_1400x2100_English.jpg?itok=zOnUGx72",
+      "description": "Dalgona coffee is a beverage made by whipping equal parts instant coffee powder, sugar, and hot water until it becomes creamy and then adding it to cold or hot milk.",
+      "type": "Hot",
+      "ingredients": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
+      "recipe": "In a medium bowl, combine sugar, coffee, and water. Using a hand mixer or a whisk, vigorously whisk until mixture turns silky smooth and shiny, then continue whisking until it thickens and holds its lofty, foamy shape. (If whisking by hand, it will take 8 to 12 minutes to get to optimal fluffiness.) Fill a glass most of the way full with ice and milk, then dollop and swirl the whipped coffee mixture on top, mixing before drinking, if desired.",
+      "likes": 0,
+      "id": 29
+    },
+    {
+      "title": "Red Velvet Frapuccino",
+      "image": "https://5.imimg.com/data5/BR/UL/CT/SELLER-31060575/madras-coffee-500x500.png",
+      "description": "Dalgona coffee is a beverage made by whipping equal parts instant coffee powder, sugar, and hot water until it becomes creamy and then adding it to cold or hot milk.",
+      "type": "Hot",
+      "ingredients": "coffee powder, sugar, and hot water",
+      "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
+      "likes": 0,
+      "id": 30
+    },
+    {
+      "title": "Red Velvet Frapuccino",
+      "image": "https://live.staticflickr.com/1883/44625764572_4457d6ba1e_b.jpg",
+      "description": "The Red Velvet Cake Frap tastes like a cold, mushy raspberry truffle slurped through a straw.",
+      "type": "Cold",
+      "ingredients": "Espresso coffee.Milk ,Raspberry syrup ,Dark chocolate syrup, Vanilla extract ,Red food colouring,Whipped cream",
+      "recipe": "Into a blender add the espresso coffee, milk, raspberry syrup, one tablespoon of dark chocolate syrup, vanilla extract, red food colouring and ice cubes. Set the blender to high and blend for 1 minute until smooth. Pour the red velvet frappuccino into a tall glass. Top the drink with whipped cream then drizzle over the remaining dark chocolate syrup.",
+      "likes": 0,
+      "id": 31
+    },
+    {
+      "title": "Dalgona Coffee",
+      "image": "https://live.staticflickr.com/1883/44625764572_4457d6ba1e_b.jpg",
+      "description": "Dalgona coffee is a beverage made by whipping equal parts instant coffee powder, sugar, and hot water until it becomes creamy and then adding it to cold or hot milk.",
+      "type": "Cold",
+      "ingredients": "coffee powder, sugar, and hot water",
+      "recipe": "Mix the frapuccino",
+      "likes": 0,
+      "id": 32
     }
   ]
 }

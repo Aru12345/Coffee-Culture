@@ -43,8 +43,6 @@ input {
     height: 450px;
     overflow-x: auto;
     background-color: rgb(238, 230, 230);
-    
-
 }
 
 
@@ -54,7 +52,7 @@ input {
     width: 345px;
     height: 450px;
     box-shadow: 0 4px 8px 0 rgba(112, 63, 63, 0.904);
-    background-color: rgb(255, 255, 255);
+    background-color: white;
 }
 
 #coffee-list{

@@ -25,7 +25,7 @@ function getCoffee(){
 
 function renderCoffee(coffee){
     const div=document.createElement("div")
-    div.id="coffeeCard-${coffee.id}"
+    div.id=`coffeeCard-${coffee.id}`
     div.className="coffee-card"
     
     const header=document.createElement("h3")
@@ -68,7 +68,7 @@ function renderCoffee(coffee){
 function createCoffee(event) {
   event.preventDefault();
   const title = document.querySelector("#title").value;
-  const image = event.target.querySelector("#image").value;
+  const image =document.querySelector("#image").value;
   const description=document.querySelector("#description").value;
   const type=document.querySelector("#type").value;
   const ingredients=document.querySelector('#ingredients').value
@@ -93,9 +93,7 @@ function createCoffee(event) {
   };
 
   fetch(BASE_URL, configObj)
-    .then(function (resp) {
-      return resp.json();
-    })
+    .then(resp=>resp.json())
     .then(function (coffee) {
       renderCoffee(coffee);
     });
